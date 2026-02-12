@@ -1,16 +1,17 @@
-{
-  "name": "Music Quiz",
-  "description": "Mini-game inside Spotify: Test your knowledge of your own playlists!",
-  "version": "6.0.0",
-  "main": "music-quiz.js",
-  "authors": [
-    {
-      "name": "GeniusofAB",
-      "url": "https://github.com/GeniusofAB"
-    }
-  ],
-  "preview": "preview.png",
-  "readme": "README.md",
-  "tags": ["fun", "game"]
-
-}
+[
+  {
+    "name": "Music Quiz",
+    "description": "Mini-game inside Spotify: Test your knowledge of your own playlists!",
+    "version": "1.0.0",
+    "main": "music-quiz.js",
+    "preview": "preview.png",
+    "readme": "README.md",
+    "authors": [
+      {
+        "name": "GeniusofAB",
+        "url": "https://github.com/GeniusofAB"
+      }
+    ],
+    "tags": ["fun", "game"]
+  }
+]
